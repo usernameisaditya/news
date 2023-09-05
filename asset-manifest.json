@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.71972e28.js",
+    "main.js": "/static/js/main.ee304409.js",
     "static/js/787.4c026eef.chunk.js": "/static/js/787.4c026eef.chunk.js",
-    "static/media/sunOff.png": "/static/media/sunOff.0167e82982a4dc4b8006.png",
+    "static/media/logo.png": "/static/media/logo.eb59c363fb7166c5cac8.png",
+    "static/media/loading.gif": "/static/media/loading.a1a996746e5e48352c81.gif",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.71972e28.js.map": "/static/js/main.71972e28.js.map",
+    "main.ee304409.js.map": "/static/js/main.ee304409.js.map",
     "787.4c026eef.chunk.js.map": "/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.71972e28.js"
+    "static/js/main.ee304409.js"
   ]
 }
